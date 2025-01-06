@@ -1,7 +1,7 @@
 import React from "react";
 
 const images = [
-  { id: 1, src: "public/images/img1.png", alt: "Virtual Shopping" },
+  { id: 1, src: "/public/images/img1.png", alt: "Virtual Shopping" },
   { id: 2, src: "/images/img2.png", alt: "Designing UI" },
   { id: 3, src: "/images/img3.png", alt: "Hacker Interface" },
   { id: 4, src: "/images/img4.png", alt: "VR Headset" },
