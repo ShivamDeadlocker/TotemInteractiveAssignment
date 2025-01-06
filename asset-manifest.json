@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TotemInteractiveAssignment/static/css/main.22cf0d88.css",
+    "main.js": "/TotemInteractiveAssignment/static/js/main.7751982b.js",
+    "static/js/488.0ccf7188.chunk.js": "/TotemInteractiveAssignment/static/js/488.0ccf7188.chunk.js",
+    "static/media/logo.svg": "/TotemInteractiveAssignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TotemInteractiveAssignment/index.html",
+    "main.22cf0d88.css.map": "/TotemInteractiveAssignment/static/css/main.22cf0d88.css.map",
+    "main.7751982b.js.map": "/TotemInteractiveAssignment/static/js/main.7751982b.js.map",
+    "488.0ccf7188.chunk.js.map": "/TotemInteractiveAssignment/static/js/488.0ccf7188.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cf0d88.css",
+    "static/js/main.7751982b.js"
+  ]
+}
